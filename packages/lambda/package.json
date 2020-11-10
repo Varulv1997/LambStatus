@@ -60,7 +60,7 @@
     "nyc": "^11.0.2",
     "power-assert": "^1.4.2",
     "rimraf": "^2.5.4",
-    "showdown": "^1.8.6",
+    "showdown": "^1.9.1",
     "sinon": "^1.17.6",
     "verror": "^1.8.1",
     "webpack": "^3.11.0"
